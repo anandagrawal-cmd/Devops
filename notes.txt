@@ -3,3 +3,4 @@ more notes
 I should show gratitude daily
 Learning Git
 Practicing GIt Pull
+This is feature 1
