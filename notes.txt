@@ -2,3 +2,4 @@ hello world
 more notes
 I should show gratitude daily
 Learning Git
+Practicing GIt Pull
